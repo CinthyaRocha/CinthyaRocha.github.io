@@ -1,0 +1,13 @@
+.imagen {
+    height: 300px;
+    width: auto;
+}
+
+#album {
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+
+.color-Azul {
+    background-color: rgb(92, 188, 248);
+}
